@@ -83,7 +83,7 @@ Hangman-Using-HMM-and-RL/
 │
 ├── corpus.txt           # Training words
 ├── test.txt             # Test words for evaluation
-├── AI-Agent.ipynb
+├── HMM_RL.ipynb
 └── README.md
 ```
 
